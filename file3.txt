@@ -1,1 +1,4 @@
 This is another file created in terminal window using 'touch commane'.
+
+
+Added some lines...
